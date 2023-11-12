@@ -11,7 +11,3 @@ public class SpringBootDockerProjectApplication {
     }
 
 }
-
-
-//learning-jenkins-3003221/src/main/java/com/learningjenkins/App.java
-//java -cp target/hello-1.0-SNAPSHOT.jar com.learningjenkins.App
